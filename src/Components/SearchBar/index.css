@@ -1,0 +1,15 @@
+.TextInput{
+    height: 31px;
+    width: 350px;
+    background-color: #C7E0F4;
+    border: 0;
+    border-radius: 2px;
+}
+
+input::placeholder{
+    color: #005A9E;
+    font-size: 14px;
+    background-image: url('./Shape.png');
+    background-repeat: no-repeat;
+    text-indent: 30px;
+}
